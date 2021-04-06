@@ -11,4 +11,4 @@ Points of interest:
   * Put your cursor in the lower left corner of the area you wish to capture and do *CTRL+Y*
   * Do *CTRL+S* top populate the **Upper Corner** and **Size** fields
 
-I basically built this when I was watchint training videos and needed to capture slides.
+I basically built this when I was watching training videos and needed to capture slides.
